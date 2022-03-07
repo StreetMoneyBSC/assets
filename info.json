@@ -1,0 +1,32 @@
+{
+    "name": "STREET MONEY",
+    "website": "https://modfxmarket.com",
+    "description": "A sustainable community-driven project to grow STREET farms through creating more products from STREET",
+    "explorer": "https://bscscan.com/token/0x7599419a804c792239098917e5bb5b75c9071cf3",
+    "research": "https://modfxmarket.com/news/2021/10/01/street-money/",
+    "symbol": "STREET",
+    "type": "Token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/STUDIOBRN/STREET"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/streetmoneybsc"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/streetmoneybsc"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.modfxmarket.com/street/"
+        }
+    ]
+}
